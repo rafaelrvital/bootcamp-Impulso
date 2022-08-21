@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "typescript": "^4.7.4"
-  },
-  "dependencies": {
-    "lite-server": "^2.6.1"
-  }
-}
